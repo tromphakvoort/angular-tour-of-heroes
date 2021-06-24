@@ -1,27 +1,38 @@
-# AngularTourOfHeroes
+# Angular tour of heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
+[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/tromphakvoort/angular-tour-of-heroes)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/tromphakvoort/angular-tour-of-heroes/blob/development/LICENSE)
+[![Backers on Paypal](https://img.shields.io/badge/backer-Paypal-blue.svg)](https://www.paypal.com/paypalme/tromphakvoort)
 
-## Development server
+## Background
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> This application is made with the Angular tutorial 'Angular tour of heroes'. This tutorial was followed to gain a better understanding of Angular.
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Open your terminal and type in
 
-## Build
+```sh
+$ git clone https://github.com/tromphakvoort/angular-tour-of-heroes.git
+$ cd angular-tour-of-heroes
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Bugs
 
-## Running unit tests
+If you have questions, feature requests or a bug you want to report, please click [here](https://github.com/tromphakvoort/angular-tour-of-heroes/issues) to file an issue.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Author
 
-## Running end-to-end tests
+- [**Tromp Hakvoort**](https://www.tromphakvoort.nl/) [![GitHub followers](https://img.shields.io/github/followers/tromphakvoort?label=Follow)](https://github.com/tromphakvoort)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Support
 
-## Further help
+Like what you see? Keep me awake at night by buying me a coffee or two.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<a href="https://www.buymeacoffee.com/tromphakvoort" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
+
+## License
+
+Copyright (c) 2021 Tromp Hakvoort.
+
+Usage is provided under the MIT License. See [LICENSE](https://github.com/tromphakvoort/paymentDetails/blob/development/LICENSE) for the full details.
