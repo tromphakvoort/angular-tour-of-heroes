@@ -1,4 +1,4 @@
-# Payment Details
+# Angular tour of heroes
 
 [![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/tromphakvoort/angular-tour-of-heroes)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/tromphakvoort/angular-tour-of-heroes/blob/development/LICENSE)
