@@ -35,4 +35,4 @@ Like what you see? Keep me awake at night by buying me a coffee or two.
 
 Copyright (c) 2021 Tromp Hakvoort.
 
-Usage is provided under the MIT License. See [LICENSE](https://github.com/tromphakvoort/paymentDetails/blob/development/LICENSE) for the full details.
+Usage is provided under the MIT License. See [LICENSE](https://github.com/tromphakvoort/angular-tour-of-heroes/blob/development/LICENSE) for the full details.
